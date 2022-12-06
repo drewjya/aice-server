@@ -3,9 +3,9 @@ package services
 import (
 	"log"
 
-	"github.com/drewjya/aice-server/dto"
-	"github.com/drewjya/aice-server/entity"
-	"github.com/drewjya/aice-server/repository"
+	"aice-server/dto"
+	"aice-server/entity"
+	"aice-server/repository"
 
 	"github.com/mashingan/smapping"
 	"golang.org/x/crypto/bcrypt"

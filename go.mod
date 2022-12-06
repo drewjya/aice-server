@@ -1,4 +1,4 @@
-module github.com/drewjya/aice-server
+module aice-server
 
 go 1.19
 

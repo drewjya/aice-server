@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/drewjya/aice-server/dto"
-	"github.com/drewjya/aice-server/entity"
-	"github.com/drewjya/aice-server/helper"
-	"github.com/drewjya/aice-server/services"
+	"aice-server/dto"
+	"aice-server/entity"
+	"aice-server/helper"
+	"aice-server/services"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,13 +1,14 @@
 package main
 
 import (
+	"aice-server/config"
+	"aice-server/controller"
+	"aice-server/dto"
+	"aice-server/middleware"
+	"aice-server/repository"
+	"aice-server/services"
 	"os"
-	"github.com/drewjya/aice-server/config"
-	"github.com/drewjya/aice-server/controller"
-	"github.com/drewjya/aice-server/dto"
-	"github.com/drewjya/aice-server/middleware"
-	"github.com/drewjya/aice-server/repository"
-	"github.com/drewjya/aice-server/services"
+
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator"
 	"gorm.io/gorm"

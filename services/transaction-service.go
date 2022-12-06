@@ -5,10 +5,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/drewjya/aice-server/dto"
-	"github.com/drewjya/aice-server/entity"
-	"github.com/drewjya/aice-server/helper"
-	"github.com/drewjya/aice-server/repository"
+	"aice-server/dto"
+	"aice-server/entity"
+	"aice-server/helper"
+	"aice-server/repository"
 
 	"github.com/mashingan/smapping"
 )

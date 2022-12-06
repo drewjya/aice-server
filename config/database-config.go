@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/drewjya/aice-server/entity"
+	"aice-server/entity"
 
 	"github.com/joho/godotenv"
 
