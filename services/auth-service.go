@@ -1,10 +1,11 @@
 package services
 
 import (
-	"aice/dto"
-	"aice/entity"
-	"aice/repository"
 	"log"
+
+	"github.com/drewjya/aice-server/dto"
+	"github.com/drewjya/aice-server/entity"
+	"github.com/drewjya/aice-server/repository"
 
 	"github.com/mashingan/smapping"
 	"golang.org/x/crypto/bcrypt"

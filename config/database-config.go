@@ -1,9 +1,10 @@
 package config
 
 import (
-	"aice/entity"
 	"fmt"
 	"os"
+
+	"github.com/drewjya/aice-server/entity"
 
 	"github.com/joho/godotenv"
 

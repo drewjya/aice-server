@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"aice/entity"
+	"github.com/drewjya/aice-server/entity"
 
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"

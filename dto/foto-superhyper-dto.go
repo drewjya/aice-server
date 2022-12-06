@@ -1,8 +1,9 @@
 package dto
 
 import (
-	"aice/helper"
 	"mime/multipart"
+
+	"github.com/drewjya/aice-server/helper"
 
 	"github.com/go-playground/validator"
 )

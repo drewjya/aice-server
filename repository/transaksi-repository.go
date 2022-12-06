@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"aice/entity"
-	"aice/helper"
+	"github.com/drewjya/aice-server/entity"
+	"github.com/drewjya/aice-server/helper"
 
 	"gorm.io/gorm"
 )
